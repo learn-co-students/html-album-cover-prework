@@ -33,7 +33,7 @@ h1 {
 }
 
 h2 {
-  font-size: 5.1em;
+  font-size: 4em;
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
@@ -41,24 +41,31 @@ h2 {
 
 h3 {
   font-weight: normal;
-  letter-spacing: .3em;
+  letter-spacing: .2em;
   margin-bottom: 18px;
   line-height: 1em;
 }
 
 h4 {
   font-weight: normal;
-  font-size: .7em;
+  font-size: .6em;
   letter-spacing: .4em;
   margin-bottom: 9px;
   line-height: 1em;
 }
 
 p {
-  font-size: .9em;
+  font-size: .67em;
   line-height: 1.8em;
   letter-spacing: .103em;
   margin-bottom: 15px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  font-family: 'Avenir Next Condensed', Helvetica, sans-serif;
+  letter-spacing: .1em;
 }
 
 span {
@@ -78,7 +85,7 @@ img {
 .wrapper {
   width: 800px;
   margin: 0 auto;
-  /*background: url("https://s3.amazonaws.com/learn-verified/MOCKUP.jpg");*/
+  /* background: url("https://s3.amazonaws.com/learn-verified/MOCKUP.jpg"); */
 }
 
 .album {
@@ -95,7 +102,7 @@ img {
   background: url("https://s3.amazonaws.com/learn-verified/cover.jpg");
   background-size: 100%;
   text-align: center;
-} 
+}
 
 #back {
   background: rgba(247,211,27,1);
