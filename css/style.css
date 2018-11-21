@@ -1,6 +1,13 @@
 @font-face {
+<<<<<<< HEAD
   font-family: 'Avenir Next Condensed';
   src: url('https://s3.amazonaws.com/learn-verified/Avenir+Next+Condensed.ttc');
+=======
+  font-family: 'AvenirNextCondensed-Bold';
+  src: url('https://s3.amazonaws.com/learn-verified/Avenir+Next+Condensed.ttc')
+  font-weight: normal;
+  font-style: normal;
+>>>>>>> 5608f65cdcc8e82081d6307f4f1fde35ae51629b
 }
 
 * {
