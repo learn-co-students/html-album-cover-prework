@@ -69,9 +69,10 @@ Sheets, a language that defines styling for HTML. Before we can get to more
 elaborate styling, though, it is important to have a strong understanding of
 HTML fundamentals.
 
-In this lab, we've tested that understanding by having you practice applying
-headers, image, and paragraphs. Completing this lab means that you have a solid
-foundation that we can build upon as we continue to learn about web development.
+In this lab, we've tested that understanding will be get enhanced by having you 
+practice applying headers, image, and paragraphs. Completing this lab means that 
+you have a solid foundation that we can build upon as we continue to learn about 
+web development.
 
 _Clap along if you feel_ you're getting the hang of HTML!
 
